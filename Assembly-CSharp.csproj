@@ -47,15 +47,16 @@
   <ItemGroup>
      <Compile Include="Assets\iBeacon\Example\Source\Beacon.cs" />
      <Compile Include="Assets\iBeacon\Example\Source\Example.cs" />
+     <Compile Include="Assets\iBeacon\Example\Source\Source\BeaconPropertyAttribute.cs" />
+     <Compile Include="Assets\iBeacon\Example\Source\Source\Beacondistance.cs" />
+     <Compile Include="Assets\iBeacon\Example\Source\Source\BluetoothState.cs" />
+     <Compile Include="Assets\iBeacon\Example\Source\Source\Telemetry.cs" />
+     <Compile Include="Assets\iBeacon\Example\Source\Source\iBeaconException.cs" />
+     <Compile Include="Assets\iBeacon\Example\Source\Source\iBeaconReceiver.cs" />
+     <Compile Include="Assets\iBeacon\Example\Source\Source\iBeaconRegion.cs" />
+     <Compile Include="Assets\iBeacon\Example\Source\Source\iBeaconServer.cs" />
      <Compile Include="Assets\iBeacon\Example\Source\iBeaconMenu.cs" />
-     <Compile Include="Assets\iBeacon\Source\BeaconPropertyAttribute.cs" />
      <Compile Include="Assets\iBeacon\Source\Beacondistance.cs" />
-     <Compile Include="Assets\iBeacon\Source\BluetoothState.cs" />
-     <Compile Include="Assets\iBeacon\Source\Telemetry.cs" />
-     <Compile Include="Assets\iBeacon\Source\iBeaconException.cs" />
-     <Compile Include="Assets\iBeacon\Source\iBeaconReceiver.cs" />
-     <Compile Include="Assets\iBeacon\Source\iBeaconRegion.cs" />
-     <Compile Include="Assets\iBeacon\Source\iBeaconServer.cs" />
      <None Include="Assets\iBeacon\Plugins\Android\Android Beacon Library License.txt" />
      <None Include="Assets\iBeacon\Plugins\Android\AndroidManifest.xml" />
      <None Include="Assets\iBeacon\Plugins\iOS\Eddystone License.txt" />
