@@ -45,8 +45,8 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\iBeacon\Source\Editor\BeaconPropertyDrawer.cs" />
-     <Compile Include="Assets\iBeacon\Source\Editor\PostProcessBuildTrigger.cs" />
+     <Compile Include="Assets\iBeacon\Example\Source\Source\Editor\BeaconPropertyDrawer.cs" />
+     <Compile Include="Assets\iBeacon\Example\Source\Source\Editor\PostProcessBuildTrigger.cs" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
